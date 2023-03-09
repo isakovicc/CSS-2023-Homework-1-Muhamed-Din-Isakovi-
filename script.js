@@ -24,6 +24,22 @@ const questions = [
     d: "none of the above",
     correct: "b",
   },
+  {
+    question: "Do you need linux to program it?",
+    a: "Yes",
+    b: "No",
+    c: "Maybe",
+    d: "Great opportunity",
+    correct: "b",
+  },
+  {
+    question: "Which programs are not programming languages?",
+    a: "JavaScript",
+    b: "Css",
+    c: "c++",
+    d: "HTML",
+    correct: "d",
+ 
 ];
 
 //Fetching the HTML elements
